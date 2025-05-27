@@ -1,5 +1,5 @@
 "auto";
-var url = rawInput('请输入好友链接');
+var url = rawInput('请输入好友链接');CNSK-6JDX-KY52
 url = url.trim();
 //校验链接
 var isNetease = /^http[s]{0,1}:\/\/sky.163.com\/yqlj\/\?i=[\w_-]+$/.test(url);
